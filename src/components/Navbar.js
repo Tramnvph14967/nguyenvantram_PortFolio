@@ -5,7 +5,7 @@ const Navbar = () => {
     <header id="header">
       <div className="d-flex flex-column">
         <div className="profile">
-          <img src="assets/img/profile-img.jpg" alt className="img-fluid rounded-circle" />
+          <img src="https://haycafe.vn/wp-content/uploads/2021/11/tai-hinh-dong-de-thuong.gif" alt className="img-fluid rounded-circle" />
           <h1 className="text-light"><a href="index.html">NguyenVanTram</a></h1>
           <div className="social-links mt-3 text-center">
             <a href="#" className="twitter"><i className="bx bxl-twitter" /></a>
